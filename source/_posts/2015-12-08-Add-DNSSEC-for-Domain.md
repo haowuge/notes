@@ -18,16 +18,16 @@ categories: 信息技术
 选择你需要添加 DNSSEC 的域名，接着选择 DNS 功能，拉倒页面最下边，会有一个 [Enable DNSSEC] 按钮，
 
 点击后会显示相关参数，例如：
-![How to enable DNSSEC](https://dn-gehaowu.qbox.me/notes/2015/12/CloudFlare1.png)
+![How to enable DNSSEC](https://static.gehaowu.com/notes/2015/12/CloudFlare1.png)
 <!--more-->
 ### [NameSilo](/go/namesilo) 后台添加 DNSSEC 记录
 
 登陆 NameSilo，根据一下流程操作就行了。。。NameSilo 界面真难看。。。
 
-![Domain manager](https://dn-gehaowu.qbox.me/notes/2015/12/namesilo1.png)
-![Domain manager](https://dn-gehaowu.qbox.me/notes/2015/12/namesilo2.png)
-![DS](https://dn-gehaowu.qbox.me/notes/2015/12/namesilo3.png)
-![DNSSEC](https://dn-gehaowu.qbox.me/notes/2015/12/namesilo4.png)
+![Domain manager](https://static.gehaowu.com/notes/2015/12/namesilo1.png)
+![Domain manager](https://static.gehaowu.com/notes/2015/12/namesilo2.png)
+![DS](https://static.gehaowu.com/notes/2015/12/namesilo3.png)
+![DNSSEC](https://static.gehaowu.com/notes/2015/12/namesilo4.png)
 
 添加完记得将域名 nameserver 改成 CloudFlare 的 域名服务器。。
 
@@ -43,4 +43,4 @@ DNSSEC protects against forged DNS answers. DNSSEC protected zones are digitally
 Success! gehaowu.com is protected with DNSSEC.
 ```
 
-![Success! gehaowu.com is protected with DNSSEC.](https://dn-gehaowu.qbox.me/notes/2015/12/CloudFlare2.png)
+![Success! gehaowu.com is protected with DNSSEC.](https://static.gehaowu.com/notes/2015/12/CloudFlare2.png)

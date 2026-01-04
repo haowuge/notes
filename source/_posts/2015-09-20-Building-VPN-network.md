@@ -165,10 +165,10 @@ service mpd5 restart
 
 
 ## 发几个 KDE5 的图片，哈哈哈
-![KDE 桌面 - 一切自由](https://dn-gehaowu.qbox.me/notes/2015/09/kde5_1.jpg)
-![KDE 提交错误报告](https://dn-gehaowu.qbox.me/notes/2015/09/kde5_2.jpg)
-![KDE Login](https://dn-gehaowu.qbox.me/notes/2015/09/kde5_3.png)
-![SLIM Login](https://dn-gehaowu.qbox.me/notes/2015/09/kde5_4.png)
-![KDE 关于](https://dn-gehaowu.qbox.me/notes/2015/09/kde5_5.png)
+![KDE 桌面 - 一切自由](https://static.gehaowu.com/notes/2015/09/kde5_1.jpg)
+![KDE 提交错误报告](https://static.gehaowu.com/notes/2015/09/kde5_2.jpg)
+![KDE Login](https://static.gehaowu.com/notes/2015/09/kde5_3.png)
+![SLIM Login](https://static.gehaowu.com/notes/2015/09/kde5_4.png)
+![KDE 关于](https://static.gehaowu.com/notes/2015/09/kde5_5.png)
 
 文章原版来自 FreeBSDChina Wiki：[在 FreeBSD 上用 mpd5 构建 PPTP VPN](https://wiki.freebsdchina.org/howto/m/mpd5_setup)
